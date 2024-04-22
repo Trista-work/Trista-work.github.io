@@ -23,12 +23,5 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0"
   },
-  "scripts": {
-     "build": "hexo generate",
-     "clean": "hexo clean",
-     "deploy": "hexo deploy",
-     "server": "hexo server",
-     "netlify": "npm run clean && npm run build" // 这一行为新加
-    },
-
+ 
 }
